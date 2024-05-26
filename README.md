@@ -32,9 +32,7 @@ Ce projet est une application de gestion de produits qui permet d'ajouter, de mo
     │   │       auth.service.ts
     │   │       loader.service.ts
     │   │       product.service.ts
-    ...
-    │   │          
-    │   └───assets
+
     ...        
 ```
 
@@ -86,44 +84,21 @@ Ce projet est une application de gestion de produits qui permet d'ajouter, de mo
 
 ## Résultat
 
-- **Login (par exemple : en tant que admin)**
 
-<img src="src/assets/img.png" alt="Image" style="border: 1px solid black;">
-
-
-- **Dashboard**
-
-<img src="src/assets/img_1.png" alt="Image" style="border: 1px solid black;">
-
-- **Consulter les produits**
-
-<img src="src/assets/img_2.png" alt="Image" style="border: 1px solid black;">
-
-- **Pagination**
-
-<img src="src/assets/img_3.png" alt="Image" style="border: 1px solid black;">
-
-- **Recherche par nom de produit**
-
-<img src="src/assets/img_4.png" alt="Image" style="border: 1px solid black;">
-
-- **Ajouter un produit**
-
-<img src="src/assets/img_5.png" alt="Image" style="border: 1px solid black;">
-<img src="src/assets/img_6.png" alt="Image" style="border: 1px solid black;">
-
-- **Modifier un produit**
-
-<img src="src/assets/img_7.png" alt="Image" style="border: 1px solid black;">
-<img src="src/assets/img_8.png" alt="Image" style="border: 1px solid black;">
+<img src="images/0.png" alt="Image" style="border: 1px solid black;">
 
 
-- **Supprimer un produit**
 
-<img src="src/assets/img_11.png" alt="Image" style="border: 1px solid black;">
-<img src="src/assets/img_12.png" alt="Image" style="border: 1px solid black;">
+<img src="images/1.png" alt="Image" style="border: 1px solid black;">
 
-- **Logout**
 
-<img src="src/assets/img_14.png" alt="Image" style="border: 1px solid black;">
-<img src="src/assets/img_15.png" alt="Image" style="border: 1px solid black;">
+<img src="images/edit" alt="Image" style="border: 1px solid black;">
+
+
+<img src="images/newProduct.png" alt="Image" style="border: 1px solid black;">
+
+
+<img src="images/edit.png" alt="Image" style="border: 1px solid black;">
+
+
+<img src="images/delete.png" alt="Image" style="border: 1px solid black;">
