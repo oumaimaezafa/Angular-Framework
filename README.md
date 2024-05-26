@@ -60,7 +60,7 @@ Ce projet est une application de gestion de produits qui permet d'ajouter, de mo
 
    ```bash
    git clone https://github.com/anaserrami/Activite-Pratique-N4-Product-Management-using-Angular-Framework.git
-    ```
+(https://github.com/oumaimaezafa/Angular-Framework.git)    ```
 2. Installer les dépendances
 
    ```bash
